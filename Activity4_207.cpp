@@ -55,7 +55,7 @@ int main()
         case 4:
             break;
         default:
-            cout << "PILIH YANG BENER DONG!" << endl;
+            cout << "PILIH YANG BENER DONGG!" << endl;
 
         }
         
